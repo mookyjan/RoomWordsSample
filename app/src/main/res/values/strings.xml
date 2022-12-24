@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RoomWordsSample</string>
+    <string name="add_word">Add Word</string>
 </resources>
